@@ -1,0 +1,4 @@
+﻿  first.cpp
+C:\Users\Authorized User\Desktop\First - Copy (2)\first.cpp(196,31): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+C:\Users\Authorized User\Desktop\First - Copy (2)\first.cpp(197,31): warning C4838: conversion from 'int' to 'size_t' requires a narrowing conversion
+  First.vcxproj -> C:\Users\Authorized User\Desktop\First - Copy (2)\Debug\First.exe

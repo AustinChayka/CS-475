@@ -1,0 +1,21 @@
+﻿  first.cpp
+first.obj : error LNK2001: unresolved external symbol _clCreateBuffer@24
+first.obj : error LNK2001: unresolved external symbol _clEnqueueNDRangeKernel@36
+first.obj : error LNK2001: unresolved external symbol _clBuildProgram@24
+first.obj : error LNK2001: unresolved external symbol _clReleaseCommandQueue@4
+first.obj : error LNK2001: unresolved external symbol _clReleaseProgram@4
+first.obj : error LNK2001: unresolved external symbol _clReleaseKernel@4
+first.obj : error LNK2001: unresolved external symbol _clCreateCommandQueue@20
+first.obj : error LNK2001: unresolved external symbol _clWaitForEvents@8
+first.obj : error LNK2001: unresolved external symbol _clEnqueueReadBuffer@36
+first.obj : error LNK2001: unresolved external symbol _clGetDeviceIDs@24
+first.obj : error LNK2001: unresolved external symbol _clCreateContext@24
+first.obj : error LNK2001: unresolved external symbol _clEnqueueMarker@8
+first.obj : error LNK2001: unresolved external symbol _clGetPlatformIDs@12
+first.obj : error LNK2001: unresolved external symbol _clReleaseMemObject@4
+first.obj : error LNK2001: unresolved external symbol _clGetProgramBuildInfo@24
+first.obj : error LNK2001: unresolved external symbol _clEnqueueWriteBuffer@36
+first.obj : error LNK2001: unresolved external symbol _clCreateKernel@12
+first.obj : error LNK2001: unresolved external symbol _clCreateProgramWithSource@20
+first.obj : error LNK2001: unresolved external symbol _clSetKernelArg@16
+C:\Users\Authorized User\Desktop\First\Release\First.exe : fatal error LNK1120: 19 unresolved externals

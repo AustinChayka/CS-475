@@ -1,0 +1,22 @@
+
+//   1M =   4 GMpS
+//   2M =   8 GMpS
+//   4M =  12 GMpS
+//   8M =  23 GMpS
+//  16M =  39 GMpS
+//  32M =  62 GMpS
+//  64M =  88 GMpS
+// 128M = 110 GMpS
+// 192M = 120 GMpS
+// 256M = 127 GMpS
+// 512M = too big to write the buffers
+
+
+67108864           8       8388608          90.303 GigaMultsPerSecond
+67108864          16       4194304          89.244 GigaMultsPerSecond
+67108864          32       2097152         117.969 GigaMultsPerSecond
+67108864          64       1048576          85.399 GigaMultsPerSecond
+67108864         128        524288          87.824 GigaMultsPerSecond
+67108864         256        262144          91.418 GigaMultsPerSecond
+67108864         512        131072          88.181 GigaMultsPerSecond
+
